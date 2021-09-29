@@ -7,3 +7,5 @@ Day 1 - sept 27 -- colors and border
 
 Day 2 - sept 28 -- padding and margin
 
+Day 3 - sept 29 - applied visual design - d1
+
